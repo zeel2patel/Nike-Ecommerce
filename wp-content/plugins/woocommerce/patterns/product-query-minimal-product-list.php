@@ -1,12 +1,3 @@
-<?php
-/**
- * Title: Minimal Product List
- * Slug: woocommerce-blocks/product-query-minimal-product-list
- * Categories: WooCommerce
- * Block Types: core/query/woocommerce/product-query
- */
-
-?>
 <!-- wp:query {"query":{"perPage":"5","pages":0,"offset":0,"postType":"product","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"__woocommerceStockStatus":["instock","outofstock","onbackorder"]},"displayLayout":{"type":"list","columns":2},"namespace":"woocommerce/product-query"} -->
 <div class="wp-block-query"><!-- wp:post-template {"__woocommerceNamespace":"woocommerce/product-query/product-template"} -->
 <!-- wp:columns {"isStackedOnMobile":false} -->

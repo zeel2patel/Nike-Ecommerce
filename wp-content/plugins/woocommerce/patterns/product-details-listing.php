@@ -1,10 +1,3 @@
-<?php
-/**
- * Title: Product Details Product Listing
- * Slug: woocommerce-blocks/product-details-listing
- * Categories: WooCommerce
- */
-?>
 
 <!-- wp:woocommerce/single-product {"isPreview": true} -->
 <div class="wp-block-woocommerce-single-product">

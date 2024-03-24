@@ -1,11 +1,3 @@
-<?php
-/**
- * Title: Centered Header Menu
- * Slug: woocommerce-blocks/header-centered-menu
- * Categories: WooCommerce
- * Block Types: core/template-part/header
- */
-?>
 
 <!-- wp:group {"className":"wc-blocks-header-pattern","align":"full","layout":{"type":"constrained"}} -->
 <div class="wc-blocks-header-pattern wp-block-group alignfull">
@@ -35,8 +27,7 @@
 	<!-- /wp:columns -->
 
 	<!-- wp:separator {"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"className":"is-style-wide"} -->
-	<hr class="wp-block-separator alignfull has-alpha-channel-opacity is-style-wide"
-		style="margin-top:0px;margin-bottom:0px" />
+	<hr class="wp-block-separator alignfull has-alpha-channel-opacity is-style-wide" style="margin-top:0px;margin-bottom:0px">
 	<!-- /wp:separator -->
 
 	<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
@@ -46,7 +37,7 @@
 	<!-- /wp:group -->
 
 	<!-- wp:separator {"align":"full","className":"is-style-wide"} -->
-	<hr class="wp-block-separator alignfull has-alpha-channel-opacity is-style-wide" />
+	<hr class="wp-block-separator alignfull has-alpha-channel-opacity is-style-wide">
 	<!-- /wp:separator -->
 </div>
 <!-- /wp:group -->

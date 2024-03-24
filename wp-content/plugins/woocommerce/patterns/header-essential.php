@@ -1,11 +1,3 @@
-<?php
-/**
- * Title: Essential Header
- * Slug: woocommerce-blocks/header-essential
- * Categories: WooCommerce
- * Block Types: core/template-part/header
- */
-?>
 
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"40px","bottom":"40px","left":"40px","right":"40px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignfull" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px">

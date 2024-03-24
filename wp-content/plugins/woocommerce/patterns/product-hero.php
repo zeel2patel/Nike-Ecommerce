@@ -1,11 +1,3 @@
-<?php
-/**
- * Title: Product Hero
- * Slug: woocommerce-blocks/product-hero
- * Categories: WooCommerce
- */
-
-?>
 
 <!-- wp:woocommerce/single-product {"isPreview":true, "align":"wide"} -->
 <div class="wp-block-woocommerce-single-product alignwide">
